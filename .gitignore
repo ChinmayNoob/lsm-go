@@ -1,0 +1,10 @@
+# Demo / test data directories (from README examples)
+demo/
+mtest/
+upd/
+flush/
+compact/
+del/
+delrec/
+recover/
+data/
